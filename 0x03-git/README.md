@@ -1,1 +1,1 @@
-whiz's readme
+whiz's redone readme
